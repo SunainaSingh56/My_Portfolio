@@ -44,6 +44,18 @@
 
 ## 📌 Featured Projects
 
+### 🛍️ Zepto Inventory Analysis
+> MySQL • Data Cleaning • Business Queries
+
+- Analyzed **3,732 rows** of Zepto's product inventory (pricing, stock & category insights)
+- Found & fixed a data quality issue — deduplicated 1,187 repeated products using `ROW_NUMBER()`, cleaning data down to **1,675 unique products**
+- Answered 8 business questions: revenue by category, out-of-stock analysis, discount patterns
+- Documented full data cleaning story in README
+
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/zepto-sql-inventory-analysis)
+
+---
+
 ### ☕ Coffee Shop Sales Dashboard
 > Excel • Pivot Tables • Power Query
 
