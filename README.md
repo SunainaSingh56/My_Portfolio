@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/📍_Delhi,_India-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_Graduating-June_2026-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Graduating-July_2026-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔍_Open_to-Work-brightgreen?style=for-the-badge" />
 </div>
 
@@ -16,8 +16,8 @@
 
 🎓 Final-year **BBA-CAM** student at Chanderprabhu Jain College, GGSIPU  
 📊 Passionate about transforming raw data into **actionable business insights**  
-💡 Experienced in **Power BI, Python, SQL** and end-to-end dashboard development  
-🚀 Actively seeking **Data Analyst / Business Analyst Opportunities** in Delhi NCR  
+💡 Experienced in **Power BI, Python, SQL & Excel** and end-to-end dashboard development  
+🚀 Actively seeking **Data Analyst / Business Analyst Opportunities** in Delhi NCR ,Gurugram, Noida, Gurgaon
 📧 sunainasingh.work@gmail.com
 
 ---
@@ -30,7 +30,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -103,7 +102,7 @@
 ## 🎯 Currently
 
 - 🔍 Actively applying for **Data Analyst Internships** in Delhi NCR
-- 📊 Building projects in **Python, SQL & Power BI**
+- 📊 Building projects in **Excel ,Python, SQL & Power BI**
 - ☁️ Completing **IBM Cloud & Google Cloud** certifications
 - 💬 Ask me about **Power BI, Data Analysis, EDA**
 
