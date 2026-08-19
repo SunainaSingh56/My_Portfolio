@@ -110,7 +110,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunainasinghda-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sunainasingh56)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunainasingh56-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sunainasingh56)
 [![Email](https://img.shields.io/badge/Email-sunainasingh.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunainasingh.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SunainaSingh56-181717?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56)
 
