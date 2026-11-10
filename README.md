@@ -23,8 +23,6 @@ I am a BBA graduate aspiring to build a career in **Data Analytics and Business 
 - 📈 Building practical projects to strengthen my analytical and technical skills
 - 🎯 Open to entry-level opportunities in Data Analytics, Business Analytics, MIS and Reporting.
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
