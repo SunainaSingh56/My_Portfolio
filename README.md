@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Aspiring Data Analyst | Data Analytics | Business Intelligence
+### Aspiring Data Analyst | Business Intelligence
 
 **Turning Data into Insights Through Analysis, Visualization & Problem-Solving**
 
