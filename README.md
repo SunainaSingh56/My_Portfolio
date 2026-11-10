@@ -96,7 +96,7 @@ I am a BBA graduate aspiring to build a career in **Data Analytics and Business 
 - Generated insights into revenue trends and profitability.
 - Built an interactive dashboard to support business analysis.
 
-[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56)
+[![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/Superstore-Sales-Profit-Analytics))
 
 ---
 ### ☕ Coffee Shop Sales Dashboard
