@@ -1,24 +1,27 @@
+👋 Hi, I'm Sunaina Singh
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sunaina+Singh+👋;Data+Analyst+%7C+BI+Developer;Turning+Data+into+Decisions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Data+Analytics+%7C+Business+Intelligence;Fraud+%26+Financial+Crime+Analytics;Turning+Data+into+Insights!" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/📍_Delhi,_India-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_Graduating-July_2026-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_BBA_Graduate-6C63FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔍_Open_to-Work-brightgreen?style=for-the-badge" />
 </div>
 
----
 
 ## 👩‍💻 About Me
 
-🎓 Final-year **BBA-CAM** student at Chanderprabhu Jain College, GGSIPU  
-📊 Passionate about transforming raw data into **actionable business insights**  
-💡 Experienced in **Power BI, Python, SQL & Excel** and end-to-end dashboard development  
-🚀 Actively seeking **Data Analyst / Business Analyst Opportunities** in Delhi NCR ,Gurugram, Noida, Gurgaon
-📧 sunainasingh.work@gmail.com
+I am a BBA graduate aspiring to build a career in **Data Analytics and Business Intelligence**. I enjoy working with data to identify patterns, solve business problems, and generate meaningful insights.
+
+- 📊 Skilled in **Excel, SQL, Python, Power BI and Data Analysis**
+- 🔍 Interested in data cleaning, exploratory data analysis, reporting and visualization
+- 🏦 Have foundational domain knowledge in **Fraud Detection, KYC, AML and Financial Crime Analytics**
+- 📈 Building practical projects to strengthen my analytical and technical skills
+- 🎯 Open to entry-level opportunities in Data Analytics, Business Analytics, MIS and Reporting.
 
 ---
 
@@ -34,27 +37,70 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-4479A1?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 
 </div>
+
+### 📊 Core Analytical Skills
+
+- Data Cleaning and Data Validation
+- Exploratory Data Analysis (EDA)
+- SQL Queries and Data Manipulation
+- Advanced Excel and Pivot Tables
+- Data Visualization and Dashboard Development
+- Business Reporting and Data Interpretation
+
+### 🏦 Domain Knowledge
+
+- Fraud Detection and Prevention
+- Know Your Customer (KYC)
+- Customer Due Diligence (CDD) and Enhanced Due Diligence (EDD)
+- Anti-Money Laundering (AML) Fundamentals
+- Transaction Monitoring
+- PEP and Sanctions Screening
+- Financial Crime and Risk Analysis Fundamentals
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🛍️ Zepto Inventory Analysis
-> MySQL • Data Cleaning • Business Queries
+> MySQL • SQL • Data Cleaning • Business Analysis
 
-- Analyzed **3,732 rows** of Zepto's product inventory (pricing, stock & category insights)
-- Found & fixed a data quality issue — deduplicated 1,187 repeated products using `ROW_NUMBER()`, cleaning data down to **1,675 unique products**
-- Answered 8 business questions: revenue by category, out-of-stock analysis, discount patterns
-- Documented full data cleaning story in README
+- Analyzed **3,732 raw product records** to understand inventory, pricing and category performance.
+- Identified and addressed duplicate product records using SQL window functions.
+- Cleaned the dataset to **1,675 unique product records**.
+- Answered business questions involving revenue by category, stock availability and discount patterns.
 
 [![View Project](https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/zepto-sql-inventory-analysis)
 
 ---
+### 🏦 Fraud & AML Transaction Analysis
+> Advanced Excel • Pivot Tables • Fraud Analysis • KYC/AML
 
+- Analyzed **42,203 transaction records** along with customer, account, counterparty, alert and case data.
+- Identified **726 suspicious transactions**, representing approximately 1.72% of all transactions.
+- Examined transaction channels, customer risk scores, alert outcomes and case management.
+- Analyzed 84 alerts, including 50 true-positive and 34 false-positive outcomes.
+- Explored suspicious transaction patterns and customer-level risk indicators.
+
+[![View Project](https://img.shields.io/badge/Repository-Coming_Soon-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56)
+
+---
+### 📊 Superstore Sales Analysis Dashboard
+> Power BI • Data Visualization • Business Intelligence
+
+- Analyzed **9,994 sales records** to understand business performance.
+- Evaluated sales, profit, customer activity and product performance.
+- Generated insights into revenue trends and profitability.
+- Built an interactive dashboard to support business analysis.
+
+[![View Project](https://img.shields.io/badge/Repository-Coming_Soon-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56)
+
+---
 ### ☕ Coffee Shop Sales Dashboard
 > Excel • Pivot Tables • Power Query
 
@@ -101,10 +147,13 @@
 ---
 ## 🎯 Currently
 
-- 🔍 Actively applying for **Data Analyst Internships** in Delhi NCR
-- 📊 Building projects in **Excel ,Python, SQL & Power BI**
-- ☁️ Completing **IBM Cloud & Google Cloud** certifications
-- 💬 Ask me about **Power BI, Data Analysis, EDA**
+- 🔍 Actively applying for entry-level **Data Analyst and related opportunities**.
+- 📊 Strengthening my skills in Excel, SQL, Python and Power BI.
+- 🏦 Developing knowledge of Fraud Detection, KYC and AML analytics.
+- 💡 Building practical projects to demonstrate analytical and problem-solving skills.
+- 💬 Ask me about Data Analysis, Excel, SQL, Power BI and Exploratory Data Analysis.
+
+---
 
 ## 📫 Let's Connect
 
