@@ -1,17 +1,16 @@
-👋 Hi, I'm Sunaina Singh
+# 👋 Hi, I'm Sunaina Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Data+Analytics+%7C+Business+Intelligence;Fraud+%26+Financial+Crime+Analytics;Turning+Data+into+Insights!" alt="Typing SVG" />
+
+### Aspiring Data Analyst | Data Analytics | Business Intelligence
+
+**Turning Data into Insights Through Analysis, Visualization & Problem-Solving**
+
+📍 Delhi, India | 🎓 BBA Graduate | 💼 Open to Work
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/📍_Delhi,_India-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_BBA_Graduate-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔍_Open_to-Work-brightgreen?style=for-the-badge" />
-</div>
-
+---
 
 ## 👩‍💻 About Me
 
