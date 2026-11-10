@@ -86,7 +86,7 @@ I am a BBA graduate aspiring to build a career in **Data Analytics and Business 
 - Analyzed 84 alerts, including 50 true-positive and 34 false-positive outcomes.
 - Explored suspicious transaction patterns and customer-level risk indicators.
 
-[![View Project](https://img.shields.io/badge/Repository-Coming_Soon-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56)
+[![View Project](https://img.shields.io/badge/Repository-Coming_Soon-6C63FF?style=for-the-badge&logo=github)](https://github.com/SunainaSingh56/Financial-crime-analysis)
 
 ---
 ### 📊 Superstore Sales Analysis Dashboard
